@@ -52,7 +52,7 @@
   </views>
   <instances>
     <instance objName="obj_view" x="160" y="64" name="inst_B6A953D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bossDoor" x="0" y="128" name="inst_C872469B" locked="0" code="new_room = rn_two;&#xA;new_x = 624;&#xA;new_y = 204;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="testDoor" x="0" y="128" name="inst_FCC9F899" locked="0" code="new_room = rm_two;&#xA;new_x =624;&#xA;new_y = 222;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background1" x="96" y="64" w="32" h="32" xo="0" yo="0" id="10000823" name="inst_FC5A721F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -60,12 +60,12 @@
     <tile bgName="background1" x="32" y="0" w="32" h="32" xo="0" yo="0" id="10000825" name="inst_0DCBF12F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background1" x="32" y="32" w="32" h="32" xo="0" yo="0" id="10000826" name="inst_6FB43A4E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
-  <PhysicsWorld>0</PhysicsWorld>
+  <PhysicsWorld>-1</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>1024</PhysicsWorldRight>
   <PhysicsWorldBottom>768</PhysicsWorldBottom>
   <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
-  <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
+  <PhysicsWorldGravityY>0</PhysicsWorldGravityY>
   <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>
