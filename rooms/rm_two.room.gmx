@@ -122,6 +122,7 @@
     <instance objName="obj_wall" x="-12" y="112" name="inst_BAE1984C" locked="0" code="" scaleX="0.5" scaleY="8.58064556121826" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="-2" y="-8" name="inst_0B860988" locked="0" code="" scaleX="20.3870964050293" scaleY="0.375" colour="4294967295" rotation="0"/>
     <instance objName="object34" x="161" y="336" name="inst_624A86E3" locked="0" code="new_room = Room_dun;&#xA;new_x = 64;&#xA;new_y = 32;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bossDoor" x="632" y="172" name="inst_759E8BE4" locked="0" code="new_room = finalRoom;&#xA;new_x = 64;&#xA;new_y = 24;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_transparent_world" x="240" y="48" w="16" h="16" xo="16" yo="16" id="10000711" name="inst_3356F0B6" depth="1000001" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

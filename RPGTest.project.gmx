@@ -229,6 +229,7 @@
       <object>objects\object34</object>
       <object>objects\obj_box_of_slimes</object>
       <object>objects\testDoor</object>
+      <object>objects\bossDoor</object>
       <object>objects\Invis_Door</object>
       <object>objects\houseNoWindow</object>
       <object>objects\houseBroke</object>
@@ -251,6 +252,7 @@
     <room>rooms\room3</room>
     <room>rooms\rm_start_house</room>
     <room>rooms\Room_dun</room>
+    <room>rooms\finalRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
