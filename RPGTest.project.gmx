@@ -25,7 +25,13 @@
     </datafiles>
   </datafiles>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\dungeonSound</sound>
+    <sound>sound\townTheme</sound>
+    <sound>sound\deathSound</sound>
+    <sound>sound\lowHp</sound>
+    <sound>sound\bossFight</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_random_drawing</sprite>
     <sprites name="Player">
